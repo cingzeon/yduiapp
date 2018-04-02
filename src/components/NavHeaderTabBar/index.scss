@@ -1,0 +1,10 @@
+.header-tab-bar{
+  position:fixed;
+  bottom:0;
+  display: flex;
+  flex-direction: row;
+  width:100%;
+  div{
+    width:100%;
+  }
+}

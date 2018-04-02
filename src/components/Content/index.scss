@@ -1,0 +1,16 @@
+.content{
+  width: 100%;
+  max-width: (750rem / 100);
+  min-width: (320rem / 100);
+  background:green;
+  height:(320rem / 100);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  .item{
+    font-size:(24rem / 100);
+    color: #FFF;
+  }
+}
